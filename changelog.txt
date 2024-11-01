@@ -1,0 +1,2 @@
+= 1.0.0 =
+* Add option to replace any word or phrase from both post and page types
